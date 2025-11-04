@@ -18,6 +18,6 @@ def findmin(number):
             min = item
     return min
 print("max is : ")
-print(compare(12,23,5, case = False))
+print(compare(12,23,5, case = True))
 print("min is : ")
 print(compare(12,23,5, case = False))
