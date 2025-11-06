@@ -1,4 +1,4 @@
-def rectangle(l,w):
+def rectangle(l, w):
     return l*w
 def triangle(b,h):
     return b*h/2
